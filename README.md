@@ -1,0 +1,2 @@
+# What is this Project About
+This Project is a simple web-scrapping project to scrape events from http://programmer100.pythonanywhere.com/tours/ page and store them in an SQL Database. It also sends an email to the user when a new Event pops up. This programme uses selectorlib and requests libraries and DB Browser for SQLite as the database software.   
